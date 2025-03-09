@@ -1,0 +1,1 @@
+Este projeto automatiza o cadastro de produtos em um sistema utilizando Python, as bibliotecas pandas e pyautogui. O script lê os dados de um arquivo CSV com pandas e usa pyautogui para controlar mouse e teclado, realizando login e inserindo as informações automaticamente.
